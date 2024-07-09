@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  /* background-color: aqua; */
+  padding: 10px 80px;
+  text-align: center;
+  display: inline;
+}
+
+img {
+  margin-right: 100px;
+  margin-top: 0px;
+  text-align: center;
+}
+
+.header-nav a {
+  display: inline;
+  margin: 20 10px;
+  margin-left: 200px;
+  text-decoration: none;
+  color: #d1d8e0;
+  margin-left: 50px;
+}
+
+.header .button {
+  display: inline;
+  background-color: #afde29;
+  border: none;
+  margin-left: 200px;
+  border-radius: 20px;
+  padding: 10px 30px;
+  font-weight: 700;
+  cursor: pointer;
+}

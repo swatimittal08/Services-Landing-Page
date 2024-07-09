@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: aqua; */
+}
+
+.testimonial h4 {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 300;
+}
+
+.testimonial h2 {
+  padding: 20px;
+  text-align: center;
+  font-size: 40px;
+}
+
+.testimonial p {
+  text-align: center;
+}
+
+.testimonial img {
+  margin-left: 120px;
+}

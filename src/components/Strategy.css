@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.strategy h2 {
+  text-align: center;
+  font-size: 40px;
+}
+
+.strategy h2 .heading {
+  color: #dbde29;
+}
+
+.strategy p {
+  text-align: center;
+}
+
+.strategy .button {
+  margin-left: 48%;
+  background-color: #afde29;
+  border: none;
+  border-radius: 20px;
+  padding: 10px 30px;
+  font-weight: 700;
+  cursor: pointer;
+}
